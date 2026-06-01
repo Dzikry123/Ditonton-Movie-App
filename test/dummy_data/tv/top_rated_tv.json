@@ -1,0 +1,28 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 273240,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Off Campus",
+      "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
+      "popularity": 626.2158,
+      "poster_path": "/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg",
+      "first_air_date": "2026-05-13",
+      "softcore": false,
+      "name": "Off Campus",
+      "vote_average": 9.111,
+      "vote_count": 261
+    }
+  ],
+  "total_pages": 122,
+  "total_results": 2440
+}

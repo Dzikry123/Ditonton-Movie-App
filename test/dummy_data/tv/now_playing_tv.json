@@ -1,0 +1,30 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
+      "genre_ids": [
+        9648,
+        18,
+        10765
+      ],
+      "id": 124364,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "FROM",
+      "overview": "Overview",
+      "popularity": 718.6677,
+      "poster_path": "/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+      "first_air_date": "2022-02-20",
+      "softcore": false,
+      "name": "FROM",
+      "vote_average": 8.406,
+      "vote_count": 3332
+    }
+  ],
+  "total_pages": 64,
+  "total_results": 1276
+}
